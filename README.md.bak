@@ -1,2 +1,0 @@
-# myself
-my notes project
